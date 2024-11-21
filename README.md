@@ -38,3 +38,5 @@ Actualiza los datos de conexión en ConexionBD.java:
 private static final String URL = "jdbc:mysql://localhost:3306/mi_base_datos";
 private static final String USUARIO = "root";
 private static final String CONTRASENA = "tu_contraseña";
+
+[Video explicando el código](https://youtu.be/U-QcRvyG3tE)
